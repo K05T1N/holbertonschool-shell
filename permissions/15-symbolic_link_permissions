@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --de-reference vincent:staff _hello
